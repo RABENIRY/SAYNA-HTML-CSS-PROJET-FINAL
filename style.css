@@ -1,0 +1,162 @@
+/*
+header{
+    
+  
+  position: relative;  
+  top: 115px;
+  left: 300px;
+margin: top 1px;
+}
+.welcome{
+    max-width: 1200%;
+    width: 1200%;
+    background-color: #d35649;
+  position: relative;  
+  top: 80px;
+
+  
+
+}
+.welcome img{
+   height: 50px;
+   width: auto;
+}
+*/
+header{
+    width: 100%;
+   height: 10vh;
+    background-color: #d35649;
+    position: relative;
+    color: aliceblue;
+    
+  
+}
+header img{
+    height: 50px;
+    
+}
+.nav{
+position: absolute;
+top: 40%;
+color: aliceblue;
+width: 100%;
+padding: 0%;
+margin: 0%;
+}
+.nav a {
+  color: aliceblue;
+  position: relative;
+  left: 80%;
+  margin-right: 3px;
+  text-decoration: none;
+}
+.nav img{
+  height: 15px;
+  border-image-width: onone;
+image-rendering: pixelated;
+filter: invert(100%)
+}
+.background_image img {
+padding: 0%;
+width: 100%;
+margin: 0px;
+height: 65vh;
+filter: brightness( 85%);
+
+}
+.background_image h2{
+position: absolute;
+left: 22%;
+top: 145px;
+text-transform: uppercase;
+font-kerning: normal;
+color: #eee;
+font-weight: bolder;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: larger;
+}
+/*
+.formulaire h2{
+color: black;
+position: absolute;
+left: 48%;
+top: 200px;
+font-size: medium;
+}
+.formulaire form{
+  height: 5%;
+  border: solid 1px;
+  width: 48%;
+  position: absolute;
+  left: 29%;
+  top: 200px;
+  background-color: light-gray: #eee;
+padding-top: 80px;
+
+}
+.formulaire form [input type=" text " ] {
+  font-size: 250px;
+
+}
+
+*/
+.section {
+  height: 5%;
+  border: solid 0px ;
+  width: 48%;
+  position: absolute;
+  left: 29%;
+  top: 200px;
+
+}
+.section form h2 {
+position: relative;
+left: 30%;
+top: 03px;
+font-size: medium;
+color: black;
+}
+.section form fieldset {
+background-color: rgba(240, 248, 255, 0.74);
+}
+.section2 h1 {
+  color: rgba(196, 31, 31, 0.918);
+font-size: 25px;
+position: relative;
+left: 33%;
+}
+.section3 {
+  column-count: 2;
+ 
+
+}
+.section3 img{
+  height: 30px;
+  position: relative;
+  right: 45%;
+}
+.find {
+  background-color: red;
+  padding:  8px;
+ 
+}
+.section find h1 {
+font-weight: bolder;
+font-size: medium;
+position: relative;
+top 50px
+
+}
+.find img{
+position: absolute;
+height 50px;
+width 20%
+
+}
+
+
+
+
+
+
+  
